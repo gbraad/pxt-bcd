@@ -1,0 +1,21 @@
+{
+    "name": "bcd",
+    "version": "0.1.0",
+    "description": "Extension to work with binary-coded decimal (BCD) encoding for numbers",
+    "license": "Apache",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
